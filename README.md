@@ -9,3 +9,5 @@ Collection of valuable resources collected during learning [kivy](https://kivy.o
 ## Patterns
   * https://github.com/rafalo1333/KivyExampleMVVMPhotosApp - MVVM example
   * https://github.com/mkraemer67/kivymvp - MVP Framework
+## Raspberry Pi
+  * https://github.com/mrichardson23/rpi-kivy-screen - Guide - how to setup with display
